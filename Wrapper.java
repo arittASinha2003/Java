@@ -4,6 +4,6 @@ class Wrapper
 	{
 		int a = 10;
 		Integer inobj = new Integer (a);
-		System.out.println (a);
+		System.out.println (inobj);
 	}
 }
